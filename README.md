@@ -1,4 +1,9 @@
 # Jackbox Party Pack - Tradução português - pt_br
+## Resources:
+https://github.com/ambiguousname/jackbox-custom-content
+https://www.reddit.com/r/jackboxgames/comments/18ag6if/q_how_to_mod_jackbox/
+https://www.youtube.com/watch?v=3oKTDj3K45w
+
 
 O objetivo inicial do projeto não é traduzir todo jogo, estamos começando pelos modulos que considero principais e essenciais.  
 
